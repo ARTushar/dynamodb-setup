@@ -11,7 +11,8 @@
   "author": "AR Tushar",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-dynamodb": "^3.13.0"
+    "@aws-sdk/client-dynamodb": "^3.13.0",
+    "@aws-sdk/util-dynamodb": "^3.13.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.41",
